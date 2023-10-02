@@ -12,7 +12,7 @@ To install and run the application, please follow the instructions below:
 1. Clone the repository
 
 ```sh
-https://github.com/arifpatanduk/task-management-api.git
+git clone https://github.com/arifpatanduk/task-management-api.git
 ```
 
 3. Go to your project directory and run:

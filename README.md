@@ -32,7 +32,13 @@ DB_PASSWORD = your_database_password
 DB_DATABASE = your_database_name
 ```
 
-5. Run the server
+5. Test the API endpoint
+
+```sh
+npm test
+```
+
+6. Run the server
 
 ```sh
 npm start

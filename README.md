@@ -35,5 +35,5 @@ DB_DATABASE = your_database_name
 5. Run the server
 
 ```sh
-npm install
+npm start
 ```
